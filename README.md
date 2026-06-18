@@ -1,1 +1,1 @@
-# wifimap
+# wifimaps
